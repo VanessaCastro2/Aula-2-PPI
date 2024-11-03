@@ -1,0 +1,28 @@
+{
+  "name": "aula-2-ppi",
+  "version": "1.0.0",
+  "description": "Projeto aula 2 (metodo POST)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {              
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaCastro2/Aula-2-PPI.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "Javascript",
+    "Node",
+    "Express"
+  ],
+  "author": "Vanessa Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaCastro2/Aula-2-PPI/issues"
+  },
+  "homepage": "https://github.com/VanessaCastro2/Aula-2-PPI#readme"
+}
