@@ -4,7 +4,7 @@
   "description": "Projeto aula 2 (metodo POST)",
   "main": "index.js",
   "type": "module",
-  "scripts": {              
+  "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/VanessaCastro2/Aula-2-PPI/issues"
   },
-  "homepage": "https://github.com/VanessaCastro2/Aula-2-PPI#readme"
+  "homepage": "https://github.com/VanessaCastro2/Aula-2-PPI#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
